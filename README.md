@@ -3,9 +3,9 @@
 # Trabajo Práctico N°5 - DOM Y BOM
 
 <details>
-  <summary>Tabla de contenido</summary>
+  <summary>Tabla de contenidos</summary>
     <ul>
-      <li><a href="#p1:-numeros-magicos">P1: Números Mágicos</a></li>
+      <li><a href="#p1:-números-mágicos">P1: Números Mágicos</a></li>
       <li><a href="#repositorio-github">Repositorio GitHub</a></li>
       <li><a href="#deploy">Deploy</a></li>
       <li><a href="#autor">Autor</a></li>
