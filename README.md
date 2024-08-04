@@ -26,7 +26,7 @@ Cuando el usuario adivine el numero mostrar un mensaje indicando al usuario que 
 
 ## Deploy
 
-[![Generic badge](https://img.shields.io/badge/web-NúmerosMágicos-blue.svg)](https://github.com/Marianita18/NumerosMagicos.git)
+[![Generic badge](https://img.shields.io/badge/web-NúmerosMágicos-blue.svg)](https://p1-numeros-magicos.netlify.app/)
 
 ## Autor
 
