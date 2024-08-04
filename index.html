@@ -55,7 +55,31 @@
         </div>
       </nav>
     </header>
-    <main></main>
+    <main>
+      <section class="container my-5 py-5">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <form class="form-control">
+              <div class="mb-3">
+                <label for="number" class="form-label">Número*</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="number"
+                  min="1"
+                  max="10"
+                  placeholder="Ej: 7"
+                  required />
+                <div class="form-text">
+                  Ingresar un número del 1 al 10 inclusive.
+                </div>
+              </div>
+              <button type="submit" class="btn btn-primary px-3">Enviar</button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </main>
     <footer>
       <section class="container-fluid text-center bg-dark-subtle">
         <article class="row py-5">
